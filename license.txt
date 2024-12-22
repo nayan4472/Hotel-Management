@@ -1,0 +1,11 @@
+Model Information:
+* title:	Singapore Carlton City room 2603
+* source:	https://sketchfab.com/3d-models/singapore-carlton-city-room-2603-520d3102fd45449695acf559da137d33
+* author:	tosolini (https://sketchfab.com/tosolini)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Singapore Carlton City room 2603" (https://sketchfab.com/3d-models/singapore-carlton-city-room-2603-520d3102fd45449695acf559da137d33) by tosolini (https://sketchfab.com/tosolini) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
